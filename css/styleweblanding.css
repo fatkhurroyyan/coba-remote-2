@@ -1,3 +1,9 @@
+@font-face {
+    font-family: "Viga";
+    src: url('../font/Viga-Regular.ttf') format('truetype');
+}
+
+
 /* Navbar */
 .navbar {
     position: relative;
